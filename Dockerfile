@@ -2,7 +2,7 @@
 FROM alpine
 #informacje o autorze
 LABEL author = "Arkadiusz Szumny"
-#utworzenie katalogu roboczego
+#utworzenie katalogu roboczego 
 WORKDIR /usr/src/app
 #podlaczenie wolumenu
 VOLUME /logi
