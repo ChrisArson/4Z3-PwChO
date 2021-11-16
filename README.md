@@ -1,5 +1,5 @@
 ## 2.
- a.  
+docker build -t lab4docker .
 
 ## 3.
  a.  <br/>
